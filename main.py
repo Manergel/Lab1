@@ -9,7 +9,7 @@ Exercises
 from random import randrange
 from turtle import *
 
-from freegames import square, vecto
+from freegames import square, vector
 
 food = vector(0, 0)
 snake = [vector(10, 0)]
